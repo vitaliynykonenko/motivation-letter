@@ -6,11 +6,11 @@ body {
   }
 
   .main {
-    /* border-top: 50px solid grey;
-    border-bottom: 50px solid grey; */
+    border-top: 50px solid grey;
+    border-bottom: 50px solid grey;
     margin: 0 auto;
     padding: 10px;
-    background-image: repeating-linear-gradient(-45deg, white, white 15px, rgb(240, 240, 240) 15px, rgb(240, 240, 240) 30px);
+    /* background-image: repeating-linear-gradient(-45deg, white, white 15px, rgb(240, 240, 240) 15px, rgb(240, 240, 240) 30px); */
     /* background-image: repeating-linear-gradient(-45deg, lightgrey, lightgrey 15px, rgb(200, 200, 200) 15px, rgb(200, 200, 200) 30px); */
   }
 
